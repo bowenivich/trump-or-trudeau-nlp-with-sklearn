@@ -2,7 +2,7 @@
 
 ## Introduction
 
-We have a variety of powerful tools for Natural Language Processing (NLP) to analyze and interpret textual data. This project serves as a practical application to apply the simpliest NLP technique using an interest dataset. The primary goal is to distinguish the tweets by Donald Trump or Justin Trudeau with a simple yet effective approach. 
+There is a variety of powerful tools for Natural Language Processing (NLP) to analyze and interpret textual data. This project serves as a practical application to apply the simpliest NLP technique using an interest dataset. The primary goal is to distinguish the tweets by Donald Trump or Justin Trudeau with a simple yet effective approach. 
 
 ## Rundown
 
